@@ -20,7 +20,7 @@ main(void)
 {
     int x = -1;
     int error;
-    if(count(x))
+    if(count(x) == -1)
     {
 #ifdef DEBUG    // 디버그 모드에서만 작동한다.
 
