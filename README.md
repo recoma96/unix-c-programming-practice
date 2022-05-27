@@ -6,5 +6,8 @@
 * gcc 9.4.0
 
 ## 목차
-* Buffer 관련
-    * [Buffer Overflow](buffers/overflow.c)
+* [Buffer 관련](buffer)
+    * [Buffer Overflow](buffer/overflow.c)
+* [Exception 처리 관련](errno)
+    * [에러 잡기](errno/catch_exception.c)
+    * [에러 일으키기](errno/raise_exception.c)
