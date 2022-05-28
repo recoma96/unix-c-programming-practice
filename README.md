@@ -11,3 +11,4 @@
 * [Exception 처리 관련](errno)
     * [에러 잡기](errno/catch_exception.c)
     * [에러 일으키기](errno/raise_exception.c)
+    * [에러코드 커스텀 하기](errno/custom_exception)

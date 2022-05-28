@@ -15,6 +15,7 @@ count(int n)
         return n + 1;
 }
 
+
 int
 main(void)
 {
