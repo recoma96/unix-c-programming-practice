@@ -16,3 +16,5 @@
     * [환경 변수 전체를 문자열로 받기](process/environ.c)
     * [환경 변수를 원하는 Key값으로 받기](process/getenv.c)
     * [PATH 데이터 파싱하기](process/get_path.c)
+    * [프로세스 종료 핸들러 구현하기](process/atexit.c)
+    * [프로세스 및 사용자 ID값 확인하기](process/id.c)
