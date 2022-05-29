@@ -18,3 +18,5 @@
     * [PATH 데이터 파싱하기](process/get_path.c)
     * [프로세스 종료 핸들러 구현하기](process/atexit.c)
     * [프로세스 및 사용자 ID값 확인하기](process/id.c)
+    * [fork() 기본 사용법](process/fork.c)
+    * [wait()으로 자식 프로세스 기다리기](process/wait.c)
