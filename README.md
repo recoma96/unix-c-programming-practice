@@ -20,3 +20,6 @@
     * [프로세스 및 사용자 ID값 확인하기](process/id.c)
     * [fork() 기본 사용법](process/fork.c)
     * [wait()으로 자식 프로세스 기다리기](process/wait.c)
+* [IO 관련](io)
+    * [read() 함수로 문자열 입력받기](io/stdin.c)
+    * [echo 프로그램 만들기](io/echo.c)
