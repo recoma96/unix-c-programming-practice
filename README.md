@@ -7,3 +7,5 @@
     * [perror()](./errors/perror.c)
     * [strerror()](./errors/strerror.c)
     * [errno롤 활용하여 안전하게 파일 닫기](./errors/safe_close_fd.c)
+* [프로세스 관련](./process)
+    * [main함수에서 파라미터 가져오기](./process/args.c)
