@@ -1,6 +1,8 @@
 # 유닉스 프로그래밍 공부하기
 
 ## 목차
+* [디버깅 기법](./debugs)
+    * [ifdef-endif](./debugs/define.c)
 * [에러처리하기](./errors)
     * [perror()](./errors/perror.c)
     * [strerror()](./errors/strerror.c)
